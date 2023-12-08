@@ -1,0 +1,20 @@
+{
+  "name": "mod_6",
+  "version": "1.0.0",
+  "description": "{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodets": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  }
+}
