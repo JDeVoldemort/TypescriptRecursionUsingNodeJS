@@ -14,3 +14,4 @@ function readDirectory(dirPath) {
     }
 }
 readDirectory('./');
+readDirectory('c:/Users/drago/OneDrive/Pictures/lotr cards');
